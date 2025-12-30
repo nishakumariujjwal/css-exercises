@@ -10,7 +10,7 @@ html {
   grid-template-rows: 1fr 1fr 5fr 1fr;
   text-align: center;
   height: 100%;
-  padding: 16px;
+  padding: 18px;
   gap: 5px;
   box-sizing: border-box;
 }
